@@ -14,6 +14,8 @@ Sistem ini dirancang untuk membantu user tetap fokus saat belajar atau bekerja m
 
 # Youtube Video
 
+[![Focus-Pet](https://img.youtube.com/vi/g2_aVf9HheE/maxresdefault.jpg)](https://youtu.be/g2_aVf9HheE)
+
 ---
 
 # Cara Kerja Sistem
